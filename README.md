@@ -1,5 +1,5 @@
-TipCalculator
-=============
+Instagram Client
+================
 
 Simple Android client to display Instagram Popular images
 
